@@ -3,7 +3,7 @@
 <h1 align="center">Hi, <img src = "https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif" width="60px" height="60px"> I'm Sudham Debnath</h1>
 <h3 align="center">A passionate Frontend Web-developer from Dhaka, Bangladesh.</h3>
 
-<img align="right" alt="image" width="500" src="https://i.ibb.co/3sSGtTg/coding-animation.gif" >
+<img align="right" alt="image" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudham-debnath&label=Profile%20views&color=0e75b6&style=flat" alt="sudham-debnath" /> </p>
 
