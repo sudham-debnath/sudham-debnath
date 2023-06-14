@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Quiz Hero](https://sudham-debnath.github.io/quiz-hero/)
 
-- ✍️ I’m currently learning **Fontend and Backend Web development (HTML, CSS, JavaScript, React, MongoDB etc)**
+- ✍️ I’m currently learning **Frontend and Backend Web development (HTML, CSS, JavaScript, React, MongoDB etc.)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sudham-debnath](https://github.com/sudham-debnath)
 
