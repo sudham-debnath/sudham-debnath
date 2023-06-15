@@ -1,7 +1,7 @@
 ![logo](https://arkheajans.com/wp-content/uploads/2022/02/web-tasarim-banner-2.png)
 
 <h1 align="center">Hi, <img src = "https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif" width="60px" height="60px"> I'm Sudham Debnath</h1>
-<h3 align="center">A passionate Frontend Web-developer from Dhaka, Bangladesh.</h3>
+<h3 align="center">A passionate Front-end Web-developer from Dhaka, Bangladesh.</h3>
 
 <img align="right" alt="image" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" >
 
