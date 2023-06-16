@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sudham-debnath](https://github.com/sudham-debnath)
 
-- ❔ Ask me about **HTML, CSS, JavaScript, React etc.**
+- ❔ Ask me about **HTML, CSS (TailwindCSS), JavaScript, React.js etc.**
 
 - 📫 How to reach me **sudham15-12854@diu.edu.bd**
 
