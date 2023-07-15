@@ -4,19 +4,15 @@
 
 <h3 align="center">A passionate Front-end Web-developer from Dhaka, Bangladesh.</h3>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudham-debnath&label=Profile%20views&color=0e75b6&style=flat" alt="sudham-debnath" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sudhamdebnath" target="blank"><img src="https://img.shields.io/twitter/follow/sudhamdebnath?logo=twitter&style=for-the-badge" alt="Sudham Debnath" /></a> </p>
 
 <h1> About Me : <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h1>
 
-
 <img align="right" alt="image" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" >
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+Web-developer...!+%26;.)](https://git.io/typing-svg)
 
