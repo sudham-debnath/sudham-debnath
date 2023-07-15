@@ -14,8 +14,6 @@
 
 <h1> About Me : <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+Web-developer...!+%26;.)](https://git.io/typing-svg)
-
 - 🔭 I’m currently working on [Quiz Hero](https://sudham-debnath.github.io/quiz-hero/)
 
 - ✍️ I’m currently learning **Front-end and Back-end Web development (HTML, CSS (TailwindCSS, Bootstrap), JavaScript, React.js, Node.js, Express, MongoDB etc.)**
