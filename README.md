@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/sudhamdebnath" target="blank"><img src="https://img.shields.io/twitter/follow/sudhamdebnath?logo=twitter&style=for-the-badge" alt="Sudham Debnath" /></a> </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+Web-developer...!+%26;.)](https://git.io/typing-svg)
+
 <img align="right" alt="image" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" >
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
