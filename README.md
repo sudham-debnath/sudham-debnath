@@ -4,6 +4,12 @@
 
 <h3 align="center">A passionate Front-end Web-developer from Dhaka, Bangladesh.</h3>
 
+<div align="">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sudham-debnath.sudham-debnath&left_color=deepskyblue&right_color=blue"  />
+</div>
+
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudham-debnath&label=Profile%20views&color=0e75b6&style=flat" alt="sudham-debnath" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sudhamdebnath" target="blank"><img src="https://img.shields.io/twitter/follow/sudhamdebnath?logo=twitter&style=for-the-badge" alt="Sudham Debnath" /></a> </p>
@@ -71,6 +77,4 @@
  
  <br clear="both">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sudham-debnath.sudham-debnath&left_color=deepskyblue&right_color=blue"  />
-</div>
+
